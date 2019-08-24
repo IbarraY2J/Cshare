@@ -12,6 +12,7 @@ namespace Prueba_Git
         {
             Console.WriteLine("Primer Cambio");
             Console.WriteLine("Segundo Cambio");
+            Console.WriteLine("Sexto Cambio");
         }
 
     }
